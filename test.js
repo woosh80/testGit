@@ -1,11 +1,6 @@
-//abcd
-//candidieeke
+abcd
+candidieeke
 
 
 
-//dejjeje
-//t
-
-function test(){
-	alert(this);
-}
+dejjejet
