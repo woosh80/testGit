@@ -1,6 +1,11 @@
-abcd
-candidieeke
+//abcd
+//candidieeke
 
 
 
-dejjejet
+//dejjeje
+//t
+
+function test(){
+	alert(this);
+}
